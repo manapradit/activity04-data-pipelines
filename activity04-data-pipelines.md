@@ -1,6 +1,6 @@
 Activity 4
 ================
-Name
+Kanyanee Manapradit
 
 ## Data and packages
 
